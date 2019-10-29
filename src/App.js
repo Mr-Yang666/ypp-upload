@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import {randomString} from "./utils/random";
 import axios from "axios";
 import {Promise as reject, resolve} from "q";
